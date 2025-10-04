@@ -2,7 +2,7 @@
 
 <products>
   <product>
-    <product_id>WIE6C</product_id>
+    <product_id>WIE160C</product_id>
     <name>Set mobilier gradina Wien, 160 cm, cires, 6 pers.</name>
     <brand>Treva</brand>
     <manufacturer>ABC Mobil SRL</manufacturer>
@@ -50,7 +50,7 @@ Livrare: semi-asamblat, ambalat în carton
 
 
 <product>
-    <product_id>WIE8C</product_id>
+    <product_id>WIE160C+2</product_id>
     <name>Set mobilier gradina Wien, 160 cm, cu scaune, cires, 6 pers.</name>
     <brand>Treva</brand>
     <manufacturer>ABC Mobil SRL</manufacturer>
@@ -162,7 +162,6 @@ Retur Gratuit fără motive: 14 zile
 Conţine:
 - 1 buc masă: 200*80*73 cm
 - 2 buc bănci: 200*58*83 cm
-- 2 buc scaune: 60*58*83 cm
 Livrare: semi-asamblat, ambalat în carton
     </description>
     <material>Lemn</material>
@@ -665,3 +664,4 @@ Livrare: semi-asamblat ambalat în carton
 </products>
 
  
+
