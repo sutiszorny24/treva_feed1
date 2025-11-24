@@ -25,11 +25,11 @@ Livrare: semi-asamblat, ambalat în carton
     <needed_space>220x200 cm</needed_space>
     <seating_capacity>6</seating_capacity>
     <price>
-      <amount>2399</amount>
+      <amount>2349</amount>
       <currency>RON</currency>
     </price>
     <sale_price>
-      <amount>1999</amount>
+      <amount>1949</amount>
       <currency>RON</currency>
     </sale_price>
     <shipping>
@@ -74,11 +74,11 @@ Livrare: semi-asamblat, ambalat în carton
     <needed_space>220x300 cm</needed_space>
     <seating_capacity>8</seating_capacity>
     <price>
-      <amount>2599</amount>
+      <amount>2799</amount>
       <currency>RON</currency>
     </price>
     <sale_price>
-      <amount>2299</amount>
+      <amount>2499</amount>
       <currency>RON</currency>
     </sale_price>
     <shipping>
@@ -122,11 +122,11 @@ Livrare: semi-asamblat, ambalat în carton
     <needed_space>220x340 cm</needed_space>
     <seating_capacity>10</seating_capacity>
     <price>
-      <amount>2799</amount>
+      <amount>2999</amount>
       <currency>RON</currency>
     </price>
     <sale_price>
-      <amount>2449</amount>
+      <amount>2649</amount>
       <currency>RON</currency>
     </sale_price>
     <shipping>
@@ -170,11 +170,11 @@ Livrare: semi-asamblat, ambalat în carton
     <needed_space>220x220 cm</needed_space>
     <seating_capacity>8</seating_capacity>
     <price>
-      <amount>2549</amount>
+      <amount>2499</amount>
       <currency>RON</currency>
     </price>
     <sale_price>
-      <amount>2149</amount>
+      <amount>2099</amount>
       <currency>RON</currency>
     </sale_price>
     <shipping>
@@ -664,4 +664,5 @@ Livrare: semi-asamblat ambalat în carton
 </products>
 
  
+
 
