@@ -51,7 +51,7 @@ Livrare: semi-asamblat, ambalat în carton
 
 <product>
     <product_id>WIE160C+2</product_id>
-    <name>Set mobilier gradina Wien, 160 cm, cu scaune, cires, 6 pers.</name>
+    <name>Set mobilier gradina Wien, 160 cm, cu scaune, cires, 8 pers.</name>
     <brand>Treva</brand>
     <manufacturer>ABC Mobil SRL</manufacturer>
     <made_in>Romania</made_in>
@@ -541,7 +541,7 @@ Livrare: semi-asamblat, ambalat în carton
 
 <product>
     <product_id>WIE8V</product_id>
-    <name>Set mobilier gradina Wien, 160 cm, cu scaune, verde oliv, 6 pers.</name>
+    <name>Set mobilier gradina Wien, 160 cm, cu scaune, verde oliv, 8 pers.</name>
     <brand>Treva</brand>
     <manufacturer>ABC Mobil SRL</manufacturer>
     <made_in>Romania</made_in>
@@ -664,5 +664,6 @@ Livrare: semi-asamblat ambalat în carton
 </products>
 
  
+
 
 
